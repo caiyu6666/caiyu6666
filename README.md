@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=caiyu6666.caiyu6666&left_color=green&right_color=red)
+
 <!--
 **caiyu6666/caiyu6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
