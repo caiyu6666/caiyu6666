@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=caiyu6666.caiyu6666&left_color=green&right_color=red)
+<img src="https://github-readme-stats.vercel.app/api?username=caiyu6666&show_icons=true&theme=github_dark&hide_title=false" />
 
 <!--
 **caiyu6666/caiyu6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
